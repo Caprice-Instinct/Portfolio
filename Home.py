@@ -13,11 +13,11 @@ with col1:
 # Second column with my description
 with col2:
     st.title("Linet Wangui")
-    description = """
+    content = """
     Hi. My name is Linet. I am a programmer trying to everything to figure my
     niche. I love penguins🐧 and pandas🐼. I love cakes🎂 I love watching anime
     and bojack horseman."""
-    st.info(description)
+    st.info(content)
 
 content2 = """
 Below are some of the Python apps I built. Feel free to contact
